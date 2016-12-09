@@ -1,0 +1,37 @@
+****************************************************
+Ryan Claxton		0905979
+CIS 2500		rogue
+MAR 6 2016         claxtonr@mail.uoguelph.ca
+****************************************************
+
+************
+Compilation
+************
+from rogue directory
+"make"
+
+***********************
+Usage
+***********************
+./run (data file path)
+example: "./run ./randLevels.txt"
+
+***********************
+Testing
+***********************
+(after compiling)
+"./run ./assets/testFiles/custom.txt”
+or "make test"
+
+*****************
+Known Limitations
+*****************
+-data file cannot contain spaces at the end of a line for error checking reasons
+-monsters do not move when they run into a wall they skip a cycle
+
+*****************
+References
+*****************
+greeting ascii art from “http://patorjk.com/software/taag/#p=display&f=Ogre&t=Welcome%0Ato%20Rogue”
+game over ascii art from "http://patorjk.com/software/taag/#p=display&f=Ogre&t=GAME%20OVER"
+
