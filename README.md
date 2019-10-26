@@ -1,6 +1,6 @@
 # Rogue
 
 Rogue game with random level generator.
-First year programming assignment for CIS2500
+Uses Ncurses library and programmed in C
 "make" to install
 "./run ./randLevels.txt" to play
