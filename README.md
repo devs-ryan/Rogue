@@ -1,5 +1,5 @@
-<h2 align="center">Rouge - Terminal Game</h2>
-<h3 align="center">Rouge converted to terminal - Coded in C.</h3>
+<h2 align="center">Rogue - Terminal Game</h2>
+<h3 align="center">Rogue converted to terminal - Coded in C.</h3>
 <br><br>
 <p align="center"><img src="https://raw.githubusercontent.com/raysirsharp/img-storage/master/rouge_screen.png"></p>
 
